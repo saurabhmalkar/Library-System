@@ -1,0 +1,31 @@
+.leftside{
+
+  font-size:15pt;
+  height:500pt;
+  overflow:auto;
+  border-right:solid black;
+  border-right-color:none;
+  float: left;
+  padding-right: 30px;
+}
+
+#linkLeft ul{
+  list-style-type:none;
+}
+  
+#linkLeft a{
+  text-decoration:none;
+  color:blue;
+}
+#linkLeft a:visited, a:hover, a:active {
+  color: blue;
+
+
+table, th, td {
+   border: 1px solid black;
+}
+
+
+.newuser{
+	float: right;
+}
