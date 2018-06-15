@@ -1,0 +1,8 @@
+Read me
+1.	Install a PHP server like MAMP.
+2.	Unzip proj.zip
+3.	Save the folder into c:/MAMP/htdocs.
+4.	Load the database books.sql by running the queries in mySQL
+5.	Run MAMP
+6.	Go to browser eg.chrome
+7.	Enter url : localhost/proj/indexv2.php
